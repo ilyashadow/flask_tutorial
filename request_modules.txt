@@ -1,0 +1,26 @@
+Request modules in project:
+alembic==0.9.7
+astroid==1.6.1
+click==6.7
+flask-login==0.4.1
+flask-migrate==2.1.1
+flask-sqlalchemy==2.3.2
+flask-wtf==0.14.2
+flask==0.12.2
+isort==4.3.0
+itsdangerous==0.24
+jinja2==2.10
+lazy-object-proxy==1.3.1
+mako==1.0.7
+markupsafe==1.0
+mccabe==0.6.1
+pip==9.0.1
+pylint==1.8.2
+python-dateutil==2.6.1
+python-editor==1.0.3
+setuptools==28.8.0
+six==1.11.0
+sqlalchemy==1.2.2
+werkzeug==0.14.1
+wrapt==1.10.11
+wtforms==2.1
